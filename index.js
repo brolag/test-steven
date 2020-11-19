@@ -1,2 +1,2 @@
-const a = 'hello world'
+const a = 'hello'
 const b = 2
